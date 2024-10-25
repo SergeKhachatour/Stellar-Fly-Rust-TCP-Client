@@ -1,0 +1,1 @@
+C:\Users\serge\OneDrive\Desktop\RustProjects\Stellar-Fly-Rust-TCP-Client\target\debug\stellar_fly_rust_tcp_client.exe: C:\Users\serge\OneDrive\Desktop\RustProjects\Stellar-Fly-Rust-TCP-Client\src\main.rs
